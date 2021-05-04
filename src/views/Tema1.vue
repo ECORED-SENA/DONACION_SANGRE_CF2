@@ -233,9 +233,8 @@
         p Son las células sanguíneas (glóbulos rojos, plaquetas) y fluidos corporales (como plasma) y también sus fracciones (como crioprecipitados) que pueden prepararse por métodos como centrifugación, sedimentación, entre otros (Invima, 2011).
         br
         p Es necesario aclarar que en los bancos de sangre se obtienen hemocomponentes y no hemoderivados, ya que estos últimos son los factores de coagulación que son obtenidos mediante el procesamiento industrial del plasma, acciones que a la fecha no se realizan en los bancos de sangre del país.
-      
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Glóbulos rojos estándar")
-        .h4 Glóbulos rojos estándar: 
+        .h4 Glóbulos rojos estándar 
         p Es el componente sanguíneo obtenido al separar la mayor parte del plasma de la sangre total, por centrifugación o sedimentación en cualquier momento antes de la fecha de caducidad. Por general, es utilizado cuando hay hemorragias que conllevan al paciente a una pérdida considerable de sangre, también se usa en pacientes diagnosticados con anemia, cáncer, leucemia, entre otros (Invima, 2011).
       
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Concentrado de plaquetas unitarior")
@@ -289,7 +288,7 @@
             td Máximo 3 meses.
         
 
-    .h5.mb-4 Grupo sanguíneo y factor RH
+    .h5.mb-4 Grupo sanguíneo y factor Rh
 
     .cajon.cajon--gris.mb-4
       .row.justify-content-center.align-items-center
@@ -733,13 +732,13 @@
       .col-12.col-lg-8
         p Así mismo, es importante observar si al captar donantes voluntarios por primera vez, estos retornan en menos de 12 meses, es decir, si son fidelizados y se convierten en donantes habituales. Además, si un donante voluntario por primera vez no retorna, el promotor debe ser consciente de la importancia de revisar y tomar acciones de mejora con respecto a las <b>estrategias de información, sensibilización y educación que están implementando.</b>
 
+    p.mb-4 Si los donantes voluntarios por primera vez están presentando tasas altas de positividad en los diferentes marcadores infecciosos, esto quiere decir que el mensaje brindado en el primer momento que fue abordado requiere ser revisado, ya que seguramente, es un mensaje superficial y no se le está informando en aspectos relevantes, como, por ejemplo, periodo de ventana inmunológica.
+
     .row.justify-content-center.align-items-center.mb-5
       .col-auto
         figure
-          img(src="@/assets/curso/images/pages/ilustraciones/img_10.png", alt="alt", style="width:1400px;")    
-
-    p Si los donantes voluntarios por primera vez están presentando tasas altas de positividad en los diferentes marcadores infecciosos, esto quiere decir que el mensaje brindado en el primer momento que fue abordado requiere ser revisado, ya que seguramente, es un mensaje superficial y no se le está informando en aspectos relevantes, como, por ejemplo, periodo de ventana inmunológica.
-    br
+          img(src="@/assets/curso/images/pages/ilustraciones/img_10.png", alt="alt", style="width:1400px;")      
+    
     p.mb-4 Por otro lado, es fundamental que desde el área de promoción se analice el indicador de porcentaje de incineración de glóbulos rojos por vencimiento (está centrado en glóbulos rojos, debido a que es el hemocomponente que más se transfunde), ya que este indicador pone de manifiesto si previamente al realizar una jornada de donación se está analizando el comportamiento de los inventarios de hemocomponentes, los cuales indican el número de campañas que debe realizar dicho banco de sangre (semanal - mensual), la meta de captación por cada campaña y qué grupos sanguíneos son los que deben colectar.    
 
     .cajon.cajon--gris.p-4.mb-4   
