@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Gestión campañas donación de sangre',
     descripcionCurso:
-      'En el presente componente se tratarán aspectos técnicos generales de la donación de sangre, que permitirán al promotor conocer y aclarar los conceptos técnicos para realizar una adecuada promoción de la donación de sangre, con conocimientos sólidos para abordar a la población general.Se revisarán aspectos técnicos generales, ¿qué es la sangre?, sus componentes, tiempo de vida útil, conservación, tipos de donación, tipos de donantes, conceptos relacionados con agentes infecciosos de interés en banco de sangre, periodo de ventana inmunológica y organización y planeación de campañas de donación de sangre, acciones de mejora, eventos adversos.',
+      'En el presente componente se tratarán aspectos técnicos generales de la donación de sangre, que permitirán al promotor conocer y aclarar los conceptos técnicos para realizar una adecuada promoción de la donación de sangre, con conocimientos sólidos para abordar a la población general.</br></br> Se revisarán aspectos técnicos generales, ¿qué es la sangre?, sus componentes, tiempo de vida útil, conservación, tipos de donación, tipos de donantes, conceptos relacionados con agentes infecciosos de interés en banco de sangre, periodo de ventana inmunológica y organización y planeación de campañas de donación de sangre, acciones de mejora, eventos adversos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -31,6 +31,12 @@ export default {
             numero: '1.2',
             titulo: 'Seguimiento de indicadores',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Reacciones adversas a la donación y a la transfusión',
+            hash: 't_1_3',
           },
         ],
       },
@@ -77,13 +83,13 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
+        cargo: 'Asesor Metodológico y Pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
         nombre: 'Magda Juliana Rodríguez Rodríguez',
-        cargo: 'Experta',
+        cargo: 'Experta Temática',
         centro: 'Red Nacional Bancos de Sangre y Servicio de Transfusión.',
       },
       {
@@ -113,7 +119,7 @@ export default {
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
+        cargo: 'Soporte Organizacional',
         regional: 'Regional Tolima',
       },
       {
@@ -167,12 +173,6 @@ export default {
     {
       referencia:
         'Instituto Nacional de Salud. (2020). Informe de Reacciones Adversas a la Donación (RAD) notificadas a Sihevi-INS© durante 2018. Instituto Nacional de Salud.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
     },
     {
       referencia:
@@ -237,22 +237,17 @@ export default {
     {
       termino: 'Donante de sangre',
       significado:
-        'Persona que, previo el cumplimiento de los requisitos señalados en este Decreto, da, sin retribución económica y a título gratuito y para fines preventivos, terapéuticos de diagnóstico o de investigación, una porción de su sangre en forma voluntaria, libre y consciente (Ministerio de Salud, 1993).',
+        'persona que, previo el cumplimiento de los requisitos señalados en este Decreto, da, sin retribución económica y a título gratuito y para fines preventivos, terapéuticos de diagnóstico o de investigación, una porción de su sangre en forma voluntaria, libre y consciente (Ministerio de Salud, 1993).',
     },
     {
       termino: 'Pruebas de compatibilidad',
       significado:
-        'Son los procedimientos realizados por los servicios de transfusión o los bancos de sangre, previos a la transfusión, con el fin de asegurar la selección adecuada de la unidad de sangre o los componentes a transfundirse (Ministerio de Salud, 1993).',
-    },
-    {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'son los procedimientos realizados por los servicios de transfusión o los bancos de sangre, previos a la transfusión, con el fin de asegurar la selección adecuada de la unidad de sangre o los componentes a transfundirse (Ministerio de Salud, 1993).',
     },
     {
       termino: 'Prueba cruzada',
       significado:
-        'Es el procedimiento del laboratorio realizado por los bancos de sangre o servicios de transfusión, mediante el cual se pone en contacto suero del receptor con glóbulos rojos del donante, con el objeto de determinar su compatibilidad (Ministerio de Salud, 1993).',
+        'es el procedimiento del laboratorio realizado por los bancos de sangre o servicios de transfusión, mediante el cual se pone en contacto suero del receptor con glóbulos rojos del donante, con el objeto de determinar su compatibilidad (Ministerio de Salud, 1993).',
     },
   ],
   complementario: [
@@ -261,20 +256,21 @@ export default {
         'Instituto Nacional de Salud. (2011). Guía de control de calidad de componentes sanguíneos. Instituto Nacional de Salud.',
       tipo: 'Guía',
       link:
-        'https://www.ins.gov.co/BibliotecaDigital/control-de-calidad-de-componentes-sanguineos.pdc.pdf',
+        'downloads/complementario/control-de-calidad-de-componentes-sanguineos.pdc.pdf',
     },
     {
       texto:
         'Beltrán, M., Ayala, M., Jara, J. (1999) Frecuencia de grupos sanguíneos y factor Rh en donantes de sangre. Biomédica, 19(1), 39-44.',
       tipo: 'Artículo',
-      link: 'https://revistabiomedica.org/index.hp/biomedica/article/view/1006',
+      link:
+        'https://revistabiomedica.org/index.php/biomedica/article/view/1006',
     },
     {
       texto:
         'Instituto Nacional de Salud. (2010). Guía rápida para tomar decisiones en medicina transfusional. Instituto Nacional de Salud.',
       tipo: 'Documento técnico',
       link:
-        'https://www.ins.gov.co/Direcciones/RedesSaludPublica/DonacionSangre/Publicaciones/Guia%20Rapida%20para%20Tomar%20Decisiones%20en%20Medicina%20Transfusional.pdf',
+        'downloads/complementario/Guia_Rapida_para_Tomar_Decisiones_Medicina_Transfusional.pdf',
     },
   ],
 }
