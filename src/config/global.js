@@ -21,7 +21,7 @@ export default {
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: 'far fa-play-circle',
             numero: '1.1',
             titulo: 'Conceptos básicos para promover la donación de sangre',
             hash: 't_1_1',

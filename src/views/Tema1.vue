@@ -496,50 +496,12 @@
 
     p.mb-5 Si algún marcador infeccioso resulta doblemente reactivo, deberá realizarse una prueba confirmatoria, es decir, una prueba para realmente saber si dicha persona está positiva a la infección. En caso de estarlo, <b> el banco de sangre debe ubicar a dicha persona que pasa de ser donante a paciente, puesto que con el resultado de la prueba se evidencia que está enfermo,</b> lo ubica para notificarle el resultado, asesorar y canalizarlo a su aseguradora para que se le brinde el tratamiento y seguimiento respectivo. 
 
-    .h5.mb-4 Formas de donar sangre
+    .h5.mb-4 Formas de donar sangre    
 
-    p.mb-4 Como parte del conocimiento que debe tener un promotor, #[strong está el poder explicar al donante que puede realizar su donación de dos formas], esto implica proporcionar al donante información general al respecto de ambas:
-
-    ul.lista-ul.mb-4
-      li 
-        i.fas.fa-angle-right
-        | Donación de sangre total.
-      li 
-        i.fas.fa-angle-right
-        | Donación por aféresis.
-
-    p.mb-5 Para esto es importante tener clara la definición de que es una unidad: 
-    hr
-    .row
-      .col-auto
-        figure
-          img(src="@/assets/curso/images/pages/ilustraciones/ico_23.svg", alt="alt",style="width:90px;")
-      .col
-        h6 Unidad
-        p Es el volumen de sangre total o de uno de sus componentes, provenientes de un donante único de quien se recolecta.           
-          br
-          | #[strong Un adulto tiene en su cuerpo entre 5 y 7 litros de sangre.]
-    hr
-
-    .crd_A.crd_A--gris.mb-5
-      .row.justify-content-center.align-items-center.mb-5
-        .col-auto.mb-4.mb-lg-0
-          figure
-            img(src="@/assets/curso/images/pages/ilustraciones/img_7.png", alt="alt", style="width:250px; display:block; margin:0 auto;")
-        .col-12.col-lg
-          h6 Donación de sangre total
-          p.mt-3 La donación de sangre total implica la extracción de sangre completa, con todos sus componentes, es un procedimiento sencillo, en el que se extraen 450 mL, es decir menos de medio litro. La extracción de este volumen de sangre retira alrededor del 10 % de la hemoglobina que circula en el individuo.
-
-      .row.justify-content-center.align-items-center
-        .col-auto.mb-4.mb-lg-0
-          figure
-            img(src="@/assets/curso/images/pages/ilustraciones/img_7.png", alt="alt", style="width:250px; display:block; margin:0 auto;")
-        .col-12.col-lg
-          h6 Donación por aféresis
-          p.mt-3 Procedimiento mediante el cual se extrae sangre de un donante con el objeto de obtener uno de sus componentes, refundiendo el resto de los componentes no separados. La aféresis se realiza a través de un equipo cerrado y estéril, y mediante punción en la vena del donante, se extrae un volumen de sangre, el equipo separa sus tres componentes, y al mismo tiempo selecciona el componente que se va a colectar, para luego reinfundir en el paciente los demás componentes sanguíneos. Este proceso se realiza en varios ciclos. 
-            br
-            br
-            | Del procedimiento de aféresis, se pueden obtener, glóbulos rojos (eritroaféresis), plasma (plasmaféresis) o plaquetas (plaquetoféresis).   
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/53UMbVhm6oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Formas de donar sangre
         
     .h5 Tipos de donantes de sangre
 
