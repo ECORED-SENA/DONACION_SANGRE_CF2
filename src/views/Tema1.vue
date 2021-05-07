@@ -273,7 +273,7 @@
             td 21 a 42 días, depende de solución aditiva.
           tr
             td Concentrado de plaquetas
-            td 50mL a 70 mL
+            td 50 mL a 70 mL
             td 20 a 24 ºC (agitación suave y continua)
             td Máximo 5 días.
           tr
@@ -296,7 +296,7 @@
           figure
             img(src="@/assets/curso/images/pages/ilustraciones/ico_15.svg", alt="alt", style="width:120px;")          
         .col-sm
-          p En 1901 Karl Landsteiner publicó un artículo en el cual referenciaba la existencia de tres (3) grupos sanguíneos: A, B y O, en los glóbulos rojos en el individuo; un año después, <b> Decastello y Sturli, descubrieron el grupo AB.</b> Es de anotar que el grupo sanguíneo se expresa debido a unas moléculas denominadas antigénos, que se encuentran en la superficie de la membrana de los glóbulos rojos.     
+          p En 1901 Karl Landsteiner publicó un artículo en el cual referenciaba la existencia de tres (3) grupos sanguíneos: A, B y O, en los glóbulos rojos en el individuo; un año después, <b> Decastello y Sturli, descubrieron el grupo AB.</b> Es de anotar que el grupo sanguíneo se expresa debido a unas moléculas denominadas antígenos, que se encuentran en la superficie de la membrana de los glóbulos rojos.     
 
     p.mb-5 En el sistema ABO se han descrito cuatro (4) grupos <b> A, B, AB, O; y los antígenos, que son diferentes en cada grupo sanguíneo.</b>
 
@@ -467,7 +467,7 @@
 
       .row(titulo="Hepatitis B").pb-3.px-3
         .col.mb-4.mb-md-0
-          p.mt-3 La hepatitis B es una enfermedad causada por el virus de la hepatitis B que produce una infección hepática grave. Para algunas personas, la infección de la hepatitis B se vuelve crónica, lo que significa que dura más de seis meses. <b>Tener hepatitis B crónica aumenta el riesgo de contraer insuficiencia hepática, cáncer de hígado o cirrosis, enfermedad esta que causa cicatrices permanentes en el hígado.</b> Se puede transmitir por contacto sexual sin protección, por contacto con agujas o por vía vertical (madre-hijo).El anti-core es una sustancia denominada anticuerpo y se encuentra en la hepatitis B aguda y crónica, es decir que cuando dicha sustancia está presente, hace evidente la presencia de aquellas hepatitis B ocultas.
+          p.mt-3 La hepatitis B es una enfermedad causada por el virus de la hepatitis B que produce una infección hepática grave. Para algunas personas, la infección de la hepatitis B se vuelve crónica, lo que significa que dura más de seis meses. <b>Tener hepatitis B crónica aumenta el riesgo de contraer insuficiencia hepática, cáncer de hígado o cirrosis, enfermedad esta que causa cicatrices permanentes en el hígado.</b> Se puede transmitir por contacto sexual sin protección, por contacto con agujas o por vía vertical (madre-hijo). El anti-core es una sustancia denominada anticuerpo y se encuentra en la hepatitis B aguda y crónica, es decir que cuando dicha sustancia está presente, hace evidente la presencia de aquellas hepatitis B ocultas.
 
       .row(titulo="Hepatitis C").pb-3.px-3
         .col.mb-4.mb-md-0
