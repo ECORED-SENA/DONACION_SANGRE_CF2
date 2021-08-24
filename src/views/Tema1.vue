@@ -83,7 +83,7 @@
       p.mb-0 Posteriormente, se realizará la convocatoria a los donantes potenciales, esto puede realizarse en una jornada de acercamiento previo a la jornada, o el mismo día de la campaña de donación. Además, #[strong se debe revisar el listado de donantes habituales que pueden tenerse en el sitio en el que se desarrollará la jornada y hacer comunicación con los mismos].
 
     .h6.mb-4 Hacer: ejecución
-    p.mb-4 La jornada se desarrollará de acuerdo con la planeación y cumpliendo con los parámetros establecidos en el #[strong Decreto 1571 y en la Resolución 901 de 1996], y teniendo en cuenta las recomendaciones dadas en el Boletín lineamiento de gestión de colecta de sangre en puestos móviles.
+    p.mb-4 La jornada se desarrollará de acuerdo con la planeación y cumpliendo con los parámetros establecidos en el #[strong Decreto 1571 y en la Resolución 901 de 1993], y teniendo en cuenta las recomendaciones dadas en el Boletín lineamiento de gestión de colecta de sangre en puestos móviles.
 
     ul.lista-ul.mb-5
       li 
@@ -183,7 +183,7 @@
       .col-lg
         p #[strong Glóbulos rojos] #[br] Entre las células que conforman la sangre, se tienen a los glóbulos rojos, también denominados eritrocitos, cuya función principal es transportar oxígeno.    
 
-    p.mb-4 La hemoglobina le proporciona a la sangre su color rojo, es la sustancia cuya presencia resulta necesaria para que el oxígeno sea obtenido de los pulmones. Los glóbulos rojos también transportan el oxígeno utilizado, transformado en dióxido de carbono, de regreso a los pulmones para su expulsión del cuerpo. El hierro es un elemento clave para la elaboración de la hemoglobina. Cuando las reservas de hierro son insuficientes, el individuo se convierte en anémico, con la consecuente pérdida de la capacidad de transportar el oxígeno (Organización Panamericana de la Salud, 2005).
+    p.mb-4 De acuerdo a la organización panamericana de la salud (2005), la hemoglobina le proporciona a la sangre su color rojo, es la sustancia cuyapresencia resulta necesaria para que el oxígeno sea obtenido de los pulmones. Los glóbulos rojos también transportan el oxígeno utilizado,transformado en dióxido de carbono, de regreso a los pulmones para su expulsión del cuerpo. El hierro es un elemento clave para la elaboración de la hemoglobina. Cuando las reservas de hierro son insuficientes, el individuo se convierte en anémico, con la consecuente pérdida de la capacidad de transportar el oxígeno. (p.16)    
 
     .cajon.cajon--gris.mb-5
       .row.justify-content-center.align-items-center
