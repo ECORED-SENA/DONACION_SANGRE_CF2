@@ -83,7 +83,7 @@
       p.mb-0 Posteriormente, se realizará la convocatoria a los donantes potenciales, esto puede realizarse en una jornada de acercamiento previo a la jornada, o el mismo día de la campaña de donación. Además, #[strong se debe revisar el listado de donantes habituales que pueden tenerse en el sitio en el que se desarrollará la jornada y hacer comunicación con los mismos].
 
     .h6.mb-4 Hacer: ejecución
-    p.mb-4 La jornada se desarrollará de acuerdo con la planeación y cumpliendo con los parámetros establecidos en el #[strong Decreto 1571 y en la Resolución 901 de 1993], y teniendo en cuenta las recomendaciones dadas en el Boletín lineamiento de gestión de colecta de sangre en puestos móviles.
+    p.mb-4 La jornada se desarrollará de acuerdo con la planeación y cumpliendo con los parámetros establecidos en el #[strong Decreto 1571 de 1993 y en la Resolución 901 de 1996], y teniendo en cuenta las recomendaciones dadas en el Boletín lineamiento de gestión de colecta de sangre en puestos móviles.
 
     ul.lista-ul.mb-5
       li 
@@ -183,7 +183,7 @@
       .col-lg
         p #[strong Glóbulos rojos] #[br] Entre las células que conforman la sangre, se tienen a los glóbulos rojos, también denominados eritrocitos, cuya función principal es transportar oxígeno.    
 
-    p.mb-4 De acuerdo a la organización panamericana de la salud (2005), la hemoglobina le proporciona a la sangre su color rojo, es la sustancia cuyapresencia resulta necesaria para que el oxígeno sea obtenido de los pulmones. Los glóbulos rojos también transportan el oxígeno utilizado,transformado en dióxido de carbono, de regreso a los pulmones para su expulsión del cuerpo. El hierro es un elemento clave para la elaboración de la hemoglobina. Cuando las reservas de hierro son insuficientes, el individuo se convierte en anémico, con la consecuente pérdida de la capacidad de transportar el oxígeno. (p.16)    
+    p.mb-4 De acuerdo a la organización panamericana de la salud (2005), la hemoglobina le proporciona a la sangre su color rojo, es la sustancia cuya presencia resulta necesaria para que el oxígeno sea obtenido de los pulmones. Los glóbulos rojos también transportan el oxígeno utilizado, transformado en dióxido de carbono, de regreso a los pulmones para su expulsión del cuerpo. El hierro es un elemento clave para la elaboración de la hemoglobina. Cuando las reservas de hierro son insuficientes, el individuo se convierte en anémico, con la consecuente pérdida de la capacidad de transportar el oxígeno. (p.16)    
 
     .cajon.cajon--gris.mb-5
       .row.justify-content-center.align-items-center
@@ -217,43 +217,45 @@
       
     .h5 Componentes sanguíneos (hemocomponentes)
     
-    p.mb-5 Al donar sangre se puede obtener sangre total o hemocomponentes; a continuación, se explican cada uno de estos.
+    p.mb-5 Al donar sangre se puede obtener sangre total o hemocomponentes.
 
     TabsA.mb-5.mb-5
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Sangre total")
         .h4 Sangre total
-        p Es obtenida a partir de un donante. La bolsa en la cual se colecta contiene un líquido llamado anticoagulante, el cual evita que la sangre se coagule después de haber sido extraída del torrente sanguíneo. 
-        br
-        p Su principal uso es como producto inicial para la preparación de otros componentes sanguíneos, esto con el fin de lograr un mayor aprovechamiento, es decir que se le transfunde al paciente solamente el hemocomponente que requiere, así mismo, busca de evitar reacciones adversas.
-        br
+        p.mb-4 Es obtenida a partir de un donante. La bolsa en la cual se colecta contiene un líquido llamado anticoagulante, el cual evita que la sangre se coagule después de haber sido extraída del torrente sanguíneo. 
+
+        p.mb-4 Su principal uso es como producto inicial para la preparación de otros componentes sanguíneos, esto con el fin de lograr un mayor aprovechamiento, es decir que se le transfunde al paciente solamente el hemocomponente que requiere, así mismo, busca de evitar reacciones adversas.
+
         p Las unidades de sangre total se fracciona mediante un proceso denominado centrifugación, (método por el cual se pueden separar sólidos de líquidos de diferente densidad por medio de una fuerza giratoria), es decir, que este proceso permite que cada célula se pueda obtener de manera separada y así es como se obtienen los diferentes hemocomponentes: 
+        
       
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Componentes sanguíneos")
         .h4 Componentes sanguíneos o hemocomponentes
-        p Son las células sanguíneas (glóbulos rojos, plaquetas) y fluidos corporales (como plasma) y también sus fracciones (como crioprecipitados) que pueden prepararse por métodos como centrifugación, sedimentación, entre otros (Invima, 2011).
-        br
+        p.mb-4 “Son las células sanguíneas como glóbulos rojos, plaquetas; los fluidos corporales como plasma y sus fracciones como crioprecipitados, que pueden prepararse por métodos como centrifugación, sedimentación, entre otros” #[i (Instituto Nacional de Salud-Coordinación Red Nacional de Bancos de Sangre 2011)].
         p Es necesario aclarar que en los bancos de sangre se obtienen hemocomponentes y no hemoderivados, ya que estos últimos son los factores de coagulación que son obtenidos mediante el procesamiento industrial del plasma, acciones que a la fecha no se realizan en los bancos de sangre del país.
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Glóbulos rojos estándar")
         .h4 Glóbulos rojos estándar 
-        p Es el componente sanguíneo obtenido al separar la mayor parte del plasma de la sangre total, por centrifugación o sedimentación en cualquier momento antes de la fecha de caducidad. Por general, es utilizado cuando hay hemorragias que conllevan al paciente a una pérdida considerable de sangre, también se usa en pacientes diagnosticados con anemia, cáncer, leucemia, entre otros (Invima, 2011).
+        p "Es el componente sanguíneo obtenido al separar la mayor parte del plasma de la sangre total, por centrifugación o sedimentación en cualquier momento antes de la fecha de caducidad. Por general, es utilizado cuando hay hemorragias que conllevan al paciente a una pérdida considerable de sangre, también se usa en pacientes diagnosticados con anemia, cáncer, leucemia, entre otros".#[i (Instituto Nacional de Salud-Coordinación)]
       
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Concentrado de plaquetas unitarior")
         .h4 Concentrado de plaquetas unitario
-        p Componente sanguíneo obtenido de una unidad de sangre total que contiene la mayor parte de las plaquetas de esta, suspendidas en plasma u otras soluciones aditivas. Por lo general, es utilizado en pacientes con cáncer, leucemia, entre otros. (INVIMA, 2011)
+        p "Componente sanguíneo obtenido de una unidad de sangre total que contiene la mayor parte de las plaquetas de esta, suspendidas en plasma u otras soluciones aditivas. Por lo general, es utilizado en pacientes con cáncer, leucemia, entre otros." #[i (Instituto Nacional de Salud-Coordinación Red Nacional de Bancos de Sangre 2011)].
       
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Plasma fresco congelado (PFC)")
         .h4 Plasma fresco congelado (PFC): 
-        p Es la parte líquida de la sangre, puede obtenerse por dos vías: la primera de sangre total mediante el proceso de centrifugación o también puede obtenerse en el momento de la extracción aféresis a través de equipos automatizados. Contiene factores lábiles de la coagulación, proteínas plasmáticas; puede ser usado en pacientes quemados, entre otros (Invima, 2011).
+        p “Es la parte líquida de la sangre, puede obtenerse por dos vías: la primera de sangre total mediante el proceso de centrifugación o también puede obtenerse en el momento de la extracción aféresis a través de equipos automatizados. Contiene factores lábiles de la coagulación, proteínas plasmáticas; puede ser usado en pacientes quemados, entre otros” #[i (Grupo Cooperativo Iberoamericano de Medicina Transfusional GCIAMT 2012; Salazar 2003)]
       
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Crioprecipitado")
         .h4 Crioprecipitado
-        p Es la fracción que se precipita al descongelar y centrifugar el PFC a 4 °C, se elimina el sobrenadante y se conserva el precipitado en un pequeño volumen de plasma que contiene fibrinógeno y factores de coagulación. (Invima, 2011).
+        p "Es la fracción que se precipita al descongelar y centrifugar el PFC a 4 °C, se elimina el sobrenadante y se conserva el precipitado en un pequeño volumen de plasma que contiene fibrinógeno y factores de coagulación." #[i (Sociedad Española de Transfusión Sanguínea y Terapia Celular SETS 2015).]
+
+    p.mb-4 #[strong Cadena de frio:] es un proceso que se realiza sistemáticamente, para conservar y transportar  los hemocomponentes desde que es extraído al donante, hasta su administración al paciente (Organización Mundial de la Salud 2004).  
       
-    p.mb-5 Cada hemocomponente tiene características de tiempo y temperatura específicas para lo cual se hace necesario mantener la cadena de frío que consiste en <b> un proceso que se realiza sistemáticamente, para conservar y transportar los hemocomponentes desde que es extraído al donante, hasta su administración al paciente. </b>
+    p.mb-5 Cada hemocomponente tiene características de tiempo y temperatura específicas para lo cual se hace necesario mantener la cadena de frio.
 
     .tabla-a.mb-5.mb-5
       table
-        caption Tabla 1. Componentes sanguíneos. Adaptada de INVIMA (2011)
+        caption Tabla 1. Adaptada y elaborada, con base en la información de la Guía de Control de Calidad de Componentes Sanguíneos del Instituto Nacional de Salud 2011.
         thead
           tr
             th Componente sanguíneo
@@ -296,7 +298,7 @@
           figure
             img(src="@/assets/curso/images/pages/ilustraciones/ico_15.svg", alt="alt", style="width:120px;")          
         .col-sm
-          p En 1901 Karl Landsteiner publicó un artículo en el cual referenciaba la existencia de tres (3) grupos sanguíneos: A, B y O, en los glóbulos rojos en el individuo; un año después, <b> Decastello y Sturli, descubrieron el grupo AB.</b> Es de anotar que el grupo sanguíneo se expresa debido a unas moléculas denominadas antígenos, que se encuentran en la superficie de la membrana de los glóbulos rojos.     
+          p En 1901 Karl Landsteiner publicó un artículo en el cual referenciaba la existencia de tres (3) grupos sanguíneos: A, B y O, en los glóbulos rojos en el individuo; un año después, #[strong  Decastello y Sturli, descubrieron el grupo AB.] Es de anotar que el grupo sanguíneo se expresa debido a unas moléculas denominadas antígenos, que se encuentran en la superficie de la membrana de los glóbulos rojos. #[i (Beltrán, Ayala, and Jara 1999)].    
 
     p.mb-5 En el sistema ABO se han descrito cuatro (4) grupos <b> A, B, AB, O; y los antígenos, que son diferentes en cada grupo sanguíneo.</b>
 
@@ -404,7 +406,7 @@
               span 5
             | Otros que de acuerdo con los estudios de vigilancia epidemiológica se establezcan para una región determinada por parte del Ministerio de Salud (Art. 42)
 
-    p.mb-5 Así mismo, <b> la Resolución 1738 de 1995 obliga a la realización de prueba para detección de Trypanosoma cruzi </b> y la resolución 0437 de 2014, se refiere la obligatoriedad de realizar la prueba de anticuerpos contra el virus Linfotrópico de células T Humanas (HTLV I y II) y anticuerpos totales contra el antígeno core del virus de la Hepatitis B, tal como se expone en la siguiente tabla.
+    p.mb-5 Así mismo, #[strong la Resolución 1738 de 1995 obliga a la realización de prueba para detección de #[i Trypanosoma cruzi] ] y la resolución 0437 de 2014, se refiere la obligatoriedad de realizar la prueba de anticuerpos contra el virus Linfotrópico de células T Humanas (HTLV I y II) y anticuerpos totales contra el antígeno core del virus de la Hepatitis B, tal como se expone en la siguiente tabla.
 
     .tabla-a.mb-5
       table
@@ -440,15 +442,15 @@
             td.text-center Bacterias
             td.text-center Sífilis
             td.text-center Sí
-            td Anticuerpos contra Treponema Pallidum.
+            td Anticuerpos contra #[i Treponema Pallidum].
           tr
             td.text-center Parásitos
-            td.text-center Trypanosoma Cruzi Causante de enfermedad de Chapas
+            td.text-center #[i Trypanosoma Cruzi] causante de enfermedad de Chagas
             td.text-center Sí
-            td Anticuerpos anti-T Cruzi.
+            td Anticuerpos anti-#[i t cruzi].
           tr
             td.text-center Parásitos
-            td.text-center Plasmodium Causante de Malaria
+            td.text-center #[i Plasmodium] Causante de Malaria
             td.text-center Solo Zonas Endémicas
             td Gota gruesa para Malaria.
     
@@ -614,7 +616,7 @@
           figure.mb-4
             img(src='@/assets/curso/images/pages/ilustraciones/ico_44.svg' alt="", style="width:35px;")            
           .h6 #[strong Satisfactorio]
-          p Dicha calificación se da cuando el dato obtenido es superior al promedio nacional – departamental en relación con su histórico.
+          p Dicha calificación se da cuando el dato obtenido es inferior al promedio nacional – departamental en relación con su histórico.
 
       .col-12.col-lg.hg--full.mb-4
         .crd-border.crd-border--darkBlue        
@@ -628,7 +630,7 @@
           figure.mb-4
             img(src='@/assets/curso/images/pages/ilustraciones/ico_46.svg' alt="", style="width:35px;")          
           .h6 #[strong Insatisfactorio]
-          p Dicha calificación se da cuando el dato obtenido está ubicado por debajo del promedio nacional - departamental en relación con su histórico.
+          p Dicha calificación se da cuando el dato obtenido está ubicado por encima del promedio nacional - departamental en relación con su histórico.
       
 
     .h6.mb-5 Porcentaje de reactividad acumulada, porcentaje de incineración por vencimiento, tasa de positividad:
@@ -662,7 +664,7 @@
     p Revisión de cortes trimestrales, semestrales o anuales.
     hr
     h6 Notificación:
-    p Las coordinaciones departamentales deben hacer seguimiento mensual al número de actores que reportan en Sihevi-INS©, tanto bancos, como servicios de transfusión, acompañamiento a aquellas instituciones que no reporten, en pro de facilitar el reporte, y notificar la apertura o cierre de servicios de transfusión, para comunicarlo al nivel nacional.
+    p Las coordinaciones departamentales deben hacer seguimiento mensual al número de actores que reportan en SIHEVI-INS©, tanto bancos, como servicios de transfusión, acompañamiento a aquellas instituciones que no reporten, en pro de facilitar el reporte, y notificar la apertura o cierre de servicios de transfusión, para comunicarlo al nivel nacional.
     hr
     h6 Análisis.
     hr
@@ -675,7 +677,7 @@
     h6 Mecanismos de exportación.
     hr
     h6 Acciones para realizar:
-    p En este último aparte, cada secretaria departamental del distrito capital debe hacer seguimiento periódico al comportamiento de indicadores de actores de su área de influencia, tanto para bancos, como para servicios (Instituto Nacional de Salud, 2017).
+    p En este último aparte, cada secretaria departamental o distrito capital debe hacer seguimiento periódico al comportamiento de indicadores de actores de su área de influencia, tanto para bancos, como para servicios (Instituto Nacional de Salud, 2017).
     hr.mb-5
 
     .crd_A.crd_A--azul.mb-5
@@ -686,7 +688,8 @@
         .col-12.col-lg
           p Si un indicador presenta un comportamiento insatisfactorio, <b> el grupo de promoción del banco de sangre deberá diseñar un plan de mejora con actividades que contribuyan con el fortalecimiento del comportamiento del indicador, </b> al cual el área de calidad del banco de sangre e incluso la coordinación departamental, según sea el caso, realizará el seguimiento respectivo para verificar su cumplimiento. 
 
-    p.mb-5 El porcentaje de tipo de donante de sangre debe ser analizado de la mano con las tasas de positividad, esto quiere decir que debe existir una coherencia entre los mismos. Por ejemplo, si el porcentaje de donante habitual está aumentando, siendo este considerado como un tipo de donante que se ha caracterizado por ser uno de los de menor riesgo de transmisión de infecciones, al observar las tasas de positividad estas deben estar bajas; en caso de que estén altas, se tiene que revisar si realmente es un donante habitual.<b> Es de resaltar que este donante no solo está ligado a la frecuencia de donación (2 veces en 12 meses), sino que, además, debe tener un comportamiento infeccioso bajo.</b> 
+    p.mb-4 El porcentaje de tipo de donante de sangre debe ser analizado de la mano con las tasas de positividad, esto quiere decir que debe existir una coherencia entre los mismos. Por ejemplo, si el porcentaje de donante habitual está aumentando, siendo este considerado como un tipo de donante que se ha caracterizado por ser uno de los de menor riesgo de transmisión de infecciones, al observar las tasas de positividad estas deben estar bajas; en caso de que estén altas, se tiene que revisar si realmente es un donante habitual.<b> Es de resaltar que este donante no solo está ligado a la frecuencia de donación (2 veces en 12 meses), sino que, además, debe tener un comportamiento infeccioso bajo.</b> 
+    p.mb-5 Tener presente que si los donantes voluntarios por primera vez están presentando una tasas altas de positividad en los diferentes marcadores infecciosos, esto quiere decir que el mensaje brindado en un primer momento debe ser revisado, ya que seguramente es un mensaje superficial y no se le está informando en aspectos relevantes, como por ejemplo, periodo de ventana inmunológica.
 
     .row.justify-content-center.align-items-start.mb-5
       .col-12.col-lg-4.mb-4.mb-lg-0
@@ -720,7 +723,7 @@
 
     p Así, la hemovigilancia comprende el seguimiento “vena a vena”, <b>desde que el hemocomponente sale del brazo del donante, hasta que se administra al receptor.</b>
     br
-    p A nivel internacional, se ha recomendado la implementación de sistemas nacionales de hemovigilancia en los países y en Colombia se implementó desde el año 2002 con el desarrollo del proyecto <b>Epi-blood de OPS/OMS</b> y en 2010 se publicó el <b>Manual de hemovigilancia del Instituto Nacional de Salud,</b> como Coordinador de la Red. En dicho año se generó un manual que daba las pautas para el desarrollo del sistema de hemovigilancia, que tiene como principios: la voluntariedad, universalidad, confidencialidad y que no sea punible.
+    p A nivel internacional, se ha recomendado la implementación de sistemas nacionales de hemovigilancia en los países y en Colombia se implementó desde el año 2002 con el desarrollo del proyecto <b>Epi-blood de OPS/OMS</b> y en 2010 se publicó el <b>Manual de hemovigilancia del Instituto Nacional de Salud,</b> como Coordinador de la Red. En dicho año se generó un manual que daba las pautas para el desarrollo del sistema de hemovigilancia, que tiene como principios: la voluntariedad, universalidad, confidencialidad y que no sea punible. (Instituto Nacional de Salud-Coordinación Red Nacional de Bancos de Sangre y Servicios de Transfusión and Instituto Nacional de Salud 2010).
     br
     p.mb-5 El sistema de hemovigilancia se implementa para <b>identificar las reacciones adversas y mejorar la seguridad del sistema transfusional,</b> así mismo, con la detección tomar acciones para prevenir que dichas situaciones se vuelvan a presentar.
 
@@ -742,7 +745,7 @@
         .h3.text-center Reacciones Adversas a la Transfusión (RAT)
         p Pueden presentarse en los pacientes que reciben la transfusión. Estas pueden ser de tipo agudo no infeccioso, reacciones transfusionales tardías no infecciosas e Infecciones Transmitidas por la Transfusión (ITT).
 
-    p Actualmente <b>las RAT son notificadas por los actores en el sistema de hemovigilancia sihevi-INS ©.</b>
+    p Actualmente <b>las RAT son notificadas por los actores en el sistema de hemovigilancia SIHEVI-INS©.</b>
     br
     p.mb-5 Siguiendo al Instituto Nacional de Salud (2020), las RAT también se clasifican de acuerdo con el grado de severidad:
 
