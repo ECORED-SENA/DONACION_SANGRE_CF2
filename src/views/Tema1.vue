@@ -529,7 +529,7 @@
           img(src="@/assets/curso/images/pages/ilustraciones/A1.svg", alt="alt", style="width:90px;")
       .col
         h6 Autólogo
-        p Es aquella persona a la cual se le extrae sangre total o componentes sanguíneos reservados exclusivamente para sí mismo.
+        p "Es aquella persona a la cual se le extrae sangre total o componentes sanguíneos reservados exclusivamente para ella" (Instituto Nacional de Salud and Ministerio de Salud y Protección Social 2018; Ministerio de Salud 1993).
     hr
     .row.align-items-center
       .col-auto
@@ -537,7 +537,7 @@
           img(src="@/assets/curso/images/pages/ilustraciones/A2.svg", alt="alt", style="width:90px;")
       .col
         h6 Voluntario
-        p Es una persona que dona su sangre, plasma u otros componentes por su propia voluntad, libremente y sin recibir dinero, ni otro tipo de pago que puede considerarse sustituto del dinero. 
+        p "Es una persona que dona su sangre, plasma u otros componentes por su propia voluntad, libremente y sin recibir dinero, ni otro tipo de pago que puede considerarse sustituto del dinero. Pequeños suvenires, refrigerios y reembolsos de los gastos directos asociados al viaje /transporte son compatibles con este tipo de donación" (Instituto Nacional de Salud and Ministerio de Salud y Protección Social 2018; Organización Mundial de la Salud 2001; Organización Panamericana de la Salud 2005).
     hr
     .row.align-items-center
       .col-auto
@@ -545,7 +545,7 @@
           img(src="@/assets/curso/images/pages/ilustraciones/A3.svg", alt="alt", style="width:90px;")
       .col
         h6 Voluntario habitual, repetitivo / de repetición
-        p Persona que dona sangre o componentes por lo menos 2 veces en los últimos 12 meses, por su propia voluntad y no recibe ningún pago, ya sea en forma de dinero en efectivo o en especie que podría considerarse un sustituto del dinero.
+        p "Persona que dona sangre o componentes por lo menos 2 veces en los últimos 12 meses, por su propia voluntad y no recibe ningún pago, ya sea en forma de dinero en efectivo o en especie que podría considerarse un sustituto del dinero" (Instituto Nacional de Salud and Ministerio de Salud y Protección Social 2018).
     hr
     .row.align-items-center
       .col-auto
@@ -553,7 +553,7 @@
           img(src="@/assets/curso/images/pages/ilustraciones/A4.svg", alt="alt", style="width:90px;")
       .col
         h6 Dador por reposición
-        p Es la persona que dona sangre o componentes, previo proceso de sensibilización y educación, cuando es requerida por un miembro de su familia o comunidad sin que haya exigencia de por medio para la prestación del servicio.
+        p "Es la persona que dona sangre o componentes, previo proceso de sensibilización y educación, cuando es requerida por un miembro de su familia o comunidad sin que haya exigencia de por medio para la prestación del servicio" (Instituto Nacional de Salud and Ministerio de Salud y Protección Social 2018; Organización Mundial de la Salud 2001).
     hr
     .row.align-items-center
       .col-auto
@@ -561,7 +561,7 @@
           img(src="@/assets/curso/images/pages/ilustraciones/A5.svg", alt="alt", style="width:90px;")
       .col
         h6 Dirigido
-        p Persona que dona sangre para un receptor determinado; ejemplo: madre que dona plaquetas para su hijo, donante de riñón que además dona su sangre para el receptor del órgano. La sangre debe llegar a la persona para la cual se donó y si este no es el caso se deben considerar como de reposición.
+        p "Persona que dona sangre para un receptor determinado; ejemplo: madre que dona plaquetas para su hijo, donante de riñón que además dona su sangre para el receptor del órgano. La sangre debe llegar a la persona para la cual se donó y si este no es el caso se deben considerar como de reposición" (Instituto Nacional de Salud and Ministerio de Salud y Protección Social 2018).
     hr
     .row.align-items-center
       .col-auto
@@ -569,7 +569,7 @@
           img(src="@/assets/curso/images/pages/ilustraciones/A6.svg", alt="alt", style="width:90px;")
       .col
         h6 Voluntario convocado
-        p Donante voluntario que, por sus características fenotípicas e inmunohematológicas, es llamado por un banco de sangre a donar para un paciente que dadas sus características fenotípicas requiere esta donación por ser la más compatible para él.
+        p "Donante voluntario, que por sus características fenotípicas e inmunohematológicas es llamado por un banco de sangre a donar para un paciente que dadas sus características fenotípicas requiere esta donación por ser la más compatible para él" (Instituto Nacional de Salud and Ministerio de Salud y Protección Social 2018)
 
     hr.mb-5   
 
