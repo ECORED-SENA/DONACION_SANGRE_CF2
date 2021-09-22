@@ -224,7 +224,7 @@
         .h4 Sangre total
         p.mb-4 Es obtenida a partir de un donante. La bolsa en la cual se colecta contiene un líquido llamado anticoagulante, el cual evita que la sangre se coagule después de haber sido extraída del torrente sanguíneo. 
 
-        p.mb-4 Su principal uso es como producto inicial para la preparación de otros componentes sanguíneos, esto con el fin de lograr un mayor aprovechamiento, es decir que se le transfunde al paciente solamente el hemocomponente que requiere, así mismo, busca de evitar reacciones adversas.
+        p.mb-4 "Su principal uso es como producto inicial para la preparación de otros componentes sanguíneos", esto con el fin de lograr un mayor aprovechamiento, es decir que se le transfunde al paciente solamente el hemocomponente que requiere, así mismo, busca de evitar reacciones adversas.(Instituto Nacional de Salud-Coordinación Red Nacional de Bancos de Sangre. 2011)
 
         p Las unidades de sangre total se fracciona mediante un proceso denominado centrifugación, (método por el cual se pueden separar sólidos de líquidos de diferente densidad por medio de una fuerza giratoria), es decir, que este proceso permite que cada célula se pueda obtener de manera separada y así es como se obtienen los diferentes hemocomponentes: 
         
