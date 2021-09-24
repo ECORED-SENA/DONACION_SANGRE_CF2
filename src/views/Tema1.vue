@@ -502,8 +502,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/53UMbVhm6oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Formas de donar sangre
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/doLmh1vANX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Formas de donar sangre   
         
     .h5 Tipos de donantes de sangre
 
