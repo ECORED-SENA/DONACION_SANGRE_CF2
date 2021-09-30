@@ -616,7 +616,7 @@
           figure.mb-4
             img(src='@/assets/curso/images/pages/ilustraciones/ico_44.svg' alt="", style="width:35px;")            
           .h6 #[strong Satisfactorio]
-          p Dicha calificación se da cuando el dato obtenido es inferior al promedio nacional – departamental en relación con su histórico.
+          p Dicha calificación se da cuando el dato obtenido es superior al promedio nacional – departamental en relación con su histórico.
 
       .col-12.col-lg.hg--full.mb-4
         .crd-border.crd-border--darkBlue        
@@ -630,7 +630,7 @@
           figure.mb-4
             img(src='@/assets/curso/images/pages/ilustraciones/ico_46.svg' alt="", style="width:35px;")          
           .h6 #[strong Insatisfactorio]
-          p Dicha calificación se da cuando el dato obtenido está ubicado por encima del promedio nacional - departamental en relación con su histórico.
+          p Dicha calificación se da cuando el dato obtenido está ubicado por debajo del promedio nacional - departamental en relación con su histórico.
       
 
     .h6.mb-5 Porcentaje de reactividad acumulada, porcentaje de incineración por vencimiento, tasa de positividad:
